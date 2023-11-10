@@ -62,6 +62,6 @@ for i in range(5):
     oprtr = input("enter math symbol: ")
     number2 = int(input("enter number2: "))
     print(calculator(number1, oprtr, number2))
-    calculator(number1, oprtr, number2)
+
 
 # new coment to submit to GIT
